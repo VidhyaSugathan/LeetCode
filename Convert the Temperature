@@ -5,5 +5,4 @@ var convertTemperature = function (celsius) {
     const ans = [kelvin, fahrenheit]
     return ans
 };
-convertTemperature()
-console.log(convertTemperature())
+console.log(convertTemperature(celsius))
